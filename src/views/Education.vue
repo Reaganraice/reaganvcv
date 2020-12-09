@@ -32,31 +32,24 @@ export default {
         years: [
             {
                 color: 'cyan',
-                year: '2006',
+                year: '2005',
                 title: 'education.high_school',
                 description: 'education.secondary',
-                site: "Niño Jesus La Salle, Gral San Martín"
+                site: "Bon Berger, Lubumbashi DRCongo"
             },
             {
                 color: 'green',
-                year: '2012',
+                year: '2009',
                 title: 'education.university',
                 description: 'education.analyst',
-                site: 'Universidad de Palermo, Ciudad Autónoma de Buenos Aires'
+                site: 'Unisa(2009-2010), Cape Town South Africa'
             },
             {
                 color: 'pink',
-                year: '2015',
-                title: 'education.university',
-                description: 'education.engineer',
-                site: 'Universidad de Palermo, Ciudad Autónoma de Buenos Aires'
-            },
-            {
-                color: 'amber',
                 year: '2018',
                 title: 'education.course',
-                description: 'education.course_leader',
-                site: 'Whalecom, Ciudad Autónoma de Buenos Aires'
+                description: 'education.engineer',
+                site: 'CodeSpace(2018), Cape Town South Africa'
             }
         ]
     })

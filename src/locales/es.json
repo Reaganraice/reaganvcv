@@ -1,6 +1,6 @@
 {
   "common": {
-    "software_engineer": "Ingeniero en Sistemas"
+    "software_developer": "développeur de logiciels"
   },
   "header": {
     "show_menu": "Mostar menú",
@@ -16,7 +16,7 @@
   },
   "404": "El sitio configurado en esta dirección no contiene el archivo solicitado",
   "home": {
-    "about_me": "En búsqueda continua de nuevos desafíos. Me apasiona la tecnología y superar los obstáculos que se presentan en el día a día. Me gusta el trabajo en equipo, poder compartir conocimientos y experiencias entre mis colegas. Mi interés es pertenecer a una empresa con un buen clima laboral con grandes desafíos, donde pueda aportar mis conocimientos y experiencias adquiridas."
+    "about_me": "En recherche permanente de nouveaux défis. Je suis passionné de technologie et surmonte les obstacles qui se posent au quotidien. J'aime le travail d'équipe, pouvoir partager des connaissances et des expériences avec mes collègues. Mon intérêt est d'appartenir à une entreprise avec un bon environnement de travail avec de grands défis, où je peux apporter mes connaissances et mes expériences acquises"
   },
   "employment": {
     "support": "Soporte Técnico. Mantenimiento de servidores",

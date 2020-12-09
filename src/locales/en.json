@@ -1,6 +1,6 @@
 {
   "common": {
-    "software_engineer": "Software Engineer"
+    "software_developer": "Software Developer"
   },
   "header": {
     "show_menu": "Show menu",
@@ -20,10 +20,10 @@
   },
   "employment": {
     "support": "Technical support. Maintenance of servers",
-    "tech_lead": "Tech Lead & Full Stack Python/Vue Developer",
+    "tech_lead": "Intern and Junior Developer",
     "full_stack_php": "Full Stack PHP developer",
-    "full_stack": "Full Stack Python developer",
-    "architect": "Software architect"
+    "full_stack": "Front of House Manager",
+    "architect": "Junior Developer Full Stack JavaScript(Front & Back-end)"
   },
   "skills": {
     "databases": "Databases",
@@ -34,9 +34,9 @@
     "frameworks": "Frameworks"
   },
   "education": {
-    "secondary": "Technical in constructions",
-    "analyst": "Software analyst. Avg: 7.3",
-    "engineer": "Software Engineer. Avg: 7.6",
+    "secondary": "Mathematics and Physics",
+    "analyst": "Civil Engineering",
+    "engineer": "Web Developer",
     "course_leader": "Development of leaders. 56hs",
     "university": "University",
     "course": "Course",

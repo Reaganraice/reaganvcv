@@ -1,16 +1,16 @@
 <template>
     <v-menu offset-y bottom transition="slide-y-transition">
         <v-tooltip bottom slot="activator" z-index="0">
-          <template v-slot:activator="{ on }">
+        <template v-slot:activator="{ on }">
             <v-btn v-on="on" flat fab>
                 <v-icon>translate</v-icon>
             </v-btn>
-          </template>
-          <span>{{ $t('header.language') }}</span>
+        </template>
+        <span>{{ $t('header.language') }}</span>
         </v-tooltip>
         <v-list>
             <v-list-tile v-for="lang in languages" @click="setLanguage(lang.value)" v-show="lang.value !== $i18n.locale"
-                         :title="lang.text" :key="`lang-${lang.value}`">
+                        :title="lang.text" :key="`lang-${lang.value}`">
                 <v-list-tile-title>
                     <img :src="lang.image">
                 </v-list-tile-title>

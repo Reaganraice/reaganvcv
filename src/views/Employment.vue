@@ -29,46 +29,25 @@ export default {
     data: () => ({
         years: [
             {
-                color: 'blue',
-                year: '2008',
-                title: 'Sanchez Montero y Asociados',
-                description: 'employment.support',
-                city: "General San Martin, Buenos Aires"
-            },
-            {
-                color: 'cyan',
-                year: '2011',
-                title: 'Microteam SA',
-                description: 'employment.full_stack_php',
-                city: "Ciudad Autónoma de Buenos Aires"
-            },
-            {
-                color: 'green',
-                year: '2013',
-                title: 'DigBang',
-                description: 'employment.full_stack_php',
-                city: "Ciudad Autónoma de Buenos Aires"
-            },
-            {
                 color: 'pink',
-                year: '2015',
-                title: 'Kiu System Solutions',
+                year: '2013',
+                title: 'Manga Restaurant 2013 - 2017 ',
                 description: 'employment.full_stack',
-                city: "Ciudad Autónoma de Buenos Aires"
+                city: "Cape Town, South Africa"
             },
             {
                 color: 'amber',
-                year: '2017',
-                title: 'Kiu System Solutions',
+                year: '2018',
+                title: 'OneDayOnly December 2018 - March 2020',
                 description: 'employment.tech_lead',
-                city: "Ciudad Autónoma de Buenos Aires"
+                city: "Cape Town, South Africa"
             },
             {
                 color: 'teal',
                 year: '2020',
-                title: 'Kiu System Solutions',
+                title: 'Fireflex CC April 2020 - Present',
                 description: 'employment.architect',
-                city: "Ciudad Autónoma de Buenos Aires"
+                city: "Cape Town, South Africa"
             }
         ]
     })
