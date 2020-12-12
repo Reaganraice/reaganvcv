@@ -2,11 +2,16 @@
   "name": "reagancv",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "10.x",
+    "npm": "6.x",
+    "yarn": "1.x"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "start": "npm start"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.17.1",
