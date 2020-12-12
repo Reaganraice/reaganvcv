@@ -32,7 +32,8 @@
     "vue-router": "^3.0.1",
     "vue-template-compiler": "^2.5.21",
     "vuetify": "^1.5.21",
-    "vuetify-loader": "^1.4.0-beta.0"
+    "vuetify-loader": "^1.4.2",
+    "webpack": "^4.28.3"
   },
   "eslintConfig": {
     "root": true,
